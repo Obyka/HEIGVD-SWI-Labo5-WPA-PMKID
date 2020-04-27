@@ -1,0 +1,7 @@
+sudo
+apt
+get
+install
+rpm
+actuelle
+admin123
