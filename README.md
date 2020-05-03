@@ -59,6 +59,9 @@ Capture d'écran du script en action :
 A manière de comparaison, réaliser l'attaque sur le [fichier de capture](files/PMKID_handshake.pcap) utilisant la méthode décrite [ici](https://hashcat.net/forum/thread-7717.html).
 
 
+![image](images/crack-pmkid.png)
+
+
 ## Livrables
 
 Un fork du repo original . Puis, un Pull Request contenant **vos noms** et :
